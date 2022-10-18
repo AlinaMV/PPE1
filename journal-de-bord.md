@@ -31,3 +31,9 @@ Pour mettre à jour la version en ligne je vais taper les commandes :
 git add journal_de_bord.md
 git commit journal_de_bord.md
 git push
+
+
+18.10
+
+J'ai soumis le fichier contenant quelques URLs des sites que j'ai trouvé,
+j'ai renouvelé le script en y ajoutant des variables TYPE et ANNEE.
