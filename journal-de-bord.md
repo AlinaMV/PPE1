@@ -40,3 +40,5 @@ j'ai renouvelé le script en y ajoutant des variables TYPE et ANNEE.
 
 30.10
 commit erroné
+
+Nouvel ajout #  séance 3
