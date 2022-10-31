@@ -43,5 +43,4 @@ j'ai renouvelé le script en y ajoutant des variables TYPE et ANNEE.
 commit erroné
 
 Nouvel ajout #  séance 3
-=======
->>>>>>> parent of f5d8d02 (I AM ERROR)
+
