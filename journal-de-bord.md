@@ -37,8 +37,11 @@ git push
 
 J'ai soumis le fichier contenant quelques URLs des sites que j'ai trouvé,
 j'ai renouvelé le script en y ajoutant des variables TYPE et ANNEE.
+<<<<<<< HEAD
 
 30.10
 commit erroné
 
 Nouvel ajout #  séance 3
+=======
+>>>>>>> parent of f5d8d02 (I AM ERROR)
