@@ -40,3 +40,14 @@ j'ai renouvelé le script en y ajoutant des variables TYPE et ANNEE.
 
 Nouvel ajout #  séance 3
 
+24.11
+
+Notre équipe a décidé de choisir un autre mot pour le projet,
+car il devient de plus en plus difficile de travailler sur le mot "truc", dont les champs lexicaux
+ne sont pas les mêmes dans nos langues.
+
+En ce qui concerne mon progrès dans l'utilisation de git, j'ai eu plusieurs occasions de tester
+les commandes revert et reset (les deux options : soft et hard), y compris dans mon répertoire 
+privé que j'utilise pour m'entraîner. J'apprends peu à peu à résoudre des conflits (merge conflicts).
+
+
