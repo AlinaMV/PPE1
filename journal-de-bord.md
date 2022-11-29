@@ -50,4 +50,10 @@ En ce qui concerne mon progrès dans l'utilisation de git, j'ai eu plusieurs occ
 les commandes revert et reset (les deux options : soft et hard), y compris dans mon répertoire 
 privé que j'utilise pour m'entraîner. J'apprends peu à peu à résoudre des conflits (merge conflicts).
 
+29.11
+
+J'ai mis à jour le fichier avec des liens, vu que notre équipe a opté pour un nouveau mot.
+J'ai également mis de l'ordre dans mon répertoire (ou au moins essayé de le faire) en testant 
+mes commandes d'abord dans le dossier PPE (créé à cet effet) et les effectuant après dans mon répertoire PPE1.
+
 
